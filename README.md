@@ -1,2 +1,3 @@
 # limeapp
 It has been observed that alcohol use increases when people often encounter difficulties they can not cope with. This study explains how alcohol consumption indicates significance of these criteria.
+In this research, data of “Happiness and Alcohol Consumption” is used. In the details of the data, we observe Happiness, IDH and GDP score versus the alcohol per capita consumption ( by country and kind of drink ) of 2016. Our data consists of some important personality  measurements of 122 findings, their features such as country, region, hemisphere, happiness score, GDP_PerCapita, Beer_PerCapita, Spirit_PerCapita, Wine_PerCapita. After several analyses that include statistical methods, relationships between variables are observed.
